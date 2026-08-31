@@ -1,3 +1,1 @@
-Hello, i'm Ilhan Mahardika Pratama, a passionate and aspiring Software Engineer.
-I have a huge interest in web and software development, both in front-end and back-end.
-I'm still actively learning.
+Hello, I'm Ilhan - a passionate Software Engineer and Data Analyst. Continuously advancing my skills in software development and advanced analytics to become a Data Scientist📊📈
